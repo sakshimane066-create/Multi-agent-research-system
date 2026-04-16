@@ -1,12 +1,12 @@
-# 🤖 Multi-Agent AI Research Assistant
+#Multi-Agent AI Research Assistant
 
-## 📌 Overview
+##Overview
 
 A Multi-Agent AI Research Assistant built using LangChain and Streamlit. The system uses multiple agents (Search, Reader, Writer, Critic) to generate structured research reports from a given topic.
 
 ---
 
-## 🚀 Features
+##Features
 
 * Multi-agent workflow
 * Streamlit UI
@@ -14,7 +14,7 @@ A Multi-Agent AI Research Assistant built using LangChain and Streamlit. The sys
 
 ---
 
-## 🛠️ Tech Stack
+##Tech Stack
 
 * Python
 * LangChain
@@ -23,7 +23,7 @@ A Multi-Agent AI Research Assistant built using LangChain and Streamlit. The sys
 
 ---
 
-## ▶️ How to Run
+##How to Run
 
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
@@ -34,10 +34,11 @@ streamlit run app.py
 
 ---
 
-## ⚠️ Note
+##*Note
 
 Requires an OpenAI API key with available credits to generate responses.
 
 ---
 
-
+## Live Demo
+https://multi-agent-research-system-axrulx3oanapjfcqqw3tku.streamlit.app/
