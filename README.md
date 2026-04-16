@@ -34,7 +34,7 @@ streamlit run app.py
 
 ---
 
-##*Note
+##Note
 
 Requires an OpenAI API key with available credits to generate responses.
 
