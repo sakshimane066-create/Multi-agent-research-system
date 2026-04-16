@@ -40,6 +40,4 @@ Requires an OpenAI API key with available credits to generate responses.
 
 ---
 
-## 📸 Preview
 
-(Add your screenshot here)
