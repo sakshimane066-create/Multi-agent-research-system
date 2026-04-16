@@ -36,7 +36,7 @@ streamlit run app.py
 
 ## Note
 
-Requires an OpenAI API key with available credits to generate responses.
+Requires an your OpenAI API key with available credits to generate responses.
 
 ---
 
