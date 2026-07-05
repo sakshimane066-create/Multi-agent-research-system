@@ -2,7 +2,7 @@
 
 ## Overview
 
-A Multi-Agent AI  system Research Assistant built using LangChain and Streamlit. The system uses multiple agents (Search, Reader, Writer, Critic) to generate structured research reports from a given topic.
+A Multi-Agent AI Research Assistant built using LangChain and Streamlit. The system uses multiple agents (Search, Reader, Writer, Critic) to generate structured research reports from a given topic.
 
 ---
 
